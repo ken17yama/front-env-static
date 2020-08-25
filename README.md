@@ -21,8 +21,8 @@
 	>Ctrl + c
 
 ## ディレクトリの説明
-src：ここにソースを記述
-dist/css：コンパイルされたcssが出力される
-dist/img：普通に画像格納用
-dist/bundle.js：バンドルされたjsが出力される
-dist/*.html：HTMLファイルは個々の直下に格納する
+src：ここにソースを記述<br>
+dist/css：コンパイルされたcssが出力される<br>
+dist/img：普通に画像格納用<br>
+dist/bundle.js：バンドルされたjsが出力される<br>
+dist/*.html：HTMLファイルは個々の直下に格納する<br>
