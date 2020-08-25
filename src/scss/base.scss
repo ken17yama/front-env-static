@@ -1,0 +1,20 @@
+@import 'var.scss';
+
+html{
+	font-size: 62.5%;
+}
+h2{
+	font-size: 3rem;
+}
+h3{
+	font-size: 2.5rem;
+}
+p{
+	font-size: 1.5rem; /* 15px */
+}
+
+.contents{
+	width: calc(100% - 30px);
+	max-width: 800px;
+	margin: 35px auto;
+}

@@ -1,0 +1,31 @@
+@import 'var.scss';
+
+.nav{
+	display: flex;
+	justify-content: space-between;
+	align-items: baseline;
+	background: rgba( $primary-color, 1 );
+
+	&_title{
+		display: flex;
+		align-items: center;
+		width: 30%;
+		max-width: 140px;
+		padding: 15px 0;
+		background-color: #ffffff;
+	}
+
+	&_list{
+		display: flex;
+		align-items: center;
+		margin-right: 15px;
+		&_unit{
+			margin-left: 30px;
+		}
+		&_link{
+			color: #ffffff;
+			font-size: 2rem;
+			font-weight: bold;
+		}
+	}
+}
